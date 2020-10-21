@@ -1,3 +1,6 @@
+
+## adding some lines to check the inteegration of github dekstop and R
+
 ### Introduction
 
 This second programming assignment will require you to write an R
